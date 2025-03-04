@@ -20,6 +20,6 @@ jobs:
             
       - name: Send JSON Data to Second URL
         run: |
-          curl -X POST "https://:tL2dmzhHTXmzZTfdnqzXGA@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:2hBt-OOBQa-RXs_bCnNq_g/streams/AQAAAOKL7g8SBkWlmvg4uoeArRQAAAAAm" \
+          curl -X POST "https://:tL2dmzhHTXmzZTfdnqzXGA@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:2hBt-OOBQa-RXs_bCnNq_g/streams/AQAAAOKL7g8SBkWlmvg4uoeArRQAAAAA" \
             -H "Content-Type: application/json" \
             -d @stream.json
