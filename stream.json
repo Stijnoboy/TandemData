@@ -1,4 +1,6 @@
 {
-"Temperature": 22.3,
-"Humidity": 30
+"Temperature": 18,
+"Humidity": 35
+"CO": 0%,
+"Crowd Density Monitor": 'Not crowded'
 }
